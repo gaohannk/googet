@@ -6,6 +6,7 @@
   "authors": "ajackura@google.com",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
   "description": "GooGet Package Manager",
+  "source": "https://github.com/google/googet"
   "files": {
     "googet.exe": "<ProgramData>/GooGet/googet.exe"
   },
